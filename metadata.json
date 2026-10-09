@@ -1,0 +1,6 @@
+{
+  "name": "AutoResQ — Intelligent Emergency Response Automation",
+  "description": "Report emergencies with clarity, generate AI-assisted structured incident analysis, discover nearby hospitals and resources, and manage incident responses in a real-time command center.",
+  "requestFramePermissions": ["geolocation", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
